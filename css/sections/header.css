@@ -9,6 +9,7 @@
   
     position: relative;
     padding: 20px;
+    border-radius: 50%;
   }
   
   .header__logo-overlay {
